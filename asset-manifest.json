@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Friend-Pay/static/css/main.8c48e2df.chunk.css",
+    "main.js": "/Friend-Pay/static/js/main.64312b65.chunk.js",
+    "main.js.map": "/Friend-Pay/static/js/main.64312b65.chunk.js.map",
+    "runtime-main.js": "/Friend-Pay/static/js/runtime-main.0fb89fc4.js",
+    "runtime-main.js.map": "/Friend-Pay/static/js/runtime-main.0fb89fc4.js.map",
+    "static/js/2.e8ad3a44.chunk.js": "/Friend-Pay/static/js/2.e8ad3a44.chunk.js",
+    "static/js/2.e8ad3a44.chunk.js.map": "/Friend-Pay/static/js/2.e8ad3a44.chunk.js.map",
+    "index.html": "/Friend-Pay/index.html",
+    "precache-manifest.0c86fad9d2793ee24be465a81749ef0a.js": "/Friend-Pay/precache-manifest.0c86fad9d2793ee24be465a81749ef0a.js",
+    "service-worker.js": "/Friend-Pay/service-worker.js",
+    "static/css/main.8c48e2df.chunk.css.map": "/Friend-Pay/static/css/main.8c48e2df.chunk.css.map",
+    "static/js/2.e8ad3a44.chunk.js.LICENSE.txt": "/Friend-Pay/static/js/2.e8ad3a44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fb89fc4.js",
+    "static/js/2.e8ad3a44.chunk.js",
+    "static/css/main.8c48e2df.chunk.css",
+    "static/js/main.64312b65.chunk.js"
+  ]
+}
