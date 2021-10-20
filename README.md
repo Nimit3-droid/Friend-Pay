@@ -3,7 +3,7 @@ Split bills with friends!
 
 Friend pay will let you know how to split bills with minimum transaction.
 
-![image](https://user-images.githubusercontent.com/56917291/138174772-b28578c4-b39d-460b-8a32-76cb9fed1f20.png)
+![image](https://user-images.githubusercontent.com/56917291/138175809-0114bb8a-e6ae-4054-bb33-3d065f6e890b.png)
 ![image](https://user-images.githubusercontent.com/56917291/138175502-8ce440e5-9aa2-4ac2-ba25-8c16ace5be28.png)
 ![image](https://user-images.githubusercontent.com/56917291/138175546-17d2450f-1d17-4ec5-8f73-c8d15151a16f.png)
 
