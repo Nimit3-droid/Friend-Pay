@@ -1,6 +1,8 @@
 # Friend Pay
 Split bills with friends!
 
+DEPLOYED AT : https://nimit3-droid.github.io/Friend-Pay/
+
 Friend pay will let you know how to split bills with minimum transaction.
 
 ![image](https://user-images.githubusercontent.com/56917291/138175809-0114bb8a-e6ae-4054-bb33-3d065f6e890b.png)
