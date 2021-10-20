@@ -70,7 +70,7 @@ function ExpenditureInfo(props) {
           <Form.Control name="title"
                         required
                         type="text"
-                        placeholder="2020 Vancouver trip!"
+                        placeholder="2021 trip!"
                         defaultValue={props.expenditureInfo.title}
                         onChange={handleInputChange} />
         </Form.Group>
