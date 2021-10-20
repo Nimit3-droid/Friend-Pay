@@ -1,6 +1,6 @@
 {
   "name": "friend-pay",
-  "homepage": "https://nimit3-droid.github.io/Friend-Pay/",
+  "homepage": "https://nimit3-droid.github.io/Friend-Pay/src/index.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
