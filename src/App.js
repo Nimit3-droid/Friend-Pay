@@ -1,12 +1,15 @@
 import React from 'react'
+import 'App.scss'
+import Footer from 'components/Footer'
 
 
-function App() {
+const App=()=> {
+
 
   return (
     <div className="App">
 
-      App 
+      <Footer/>
 
     </div>
   );
