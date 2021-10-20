@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Friend-Pay/static/css/main.8c48e2df.chunk.css",
-    "main.js": "/Friend-Pay/static/js/main.64312b65.chunk.js",
-    "main.js.map": "/Friend-Pay/static/js/main.64312b65.chunk.js.map",
-    "runtime-main.js": "/Friend-Pay/static/js/runtime-main.0fb89fc4.js",
-    "runtime-main.js.map": "/Friend-Pay/static/js/runtime-main.0fb89fc4.js.map",
-    "static/js/2.e8ad3a44.chunk.js": "/Friend-Pay/static/js/2.e8ad3a44.chunk.js",
-    "static/js/2.e8ad3a44.chunk.js.map": "/Friend-Pay/static/js/2.e8ad3a44.chunk.js.map",
-    "index.html": "/Friend-Pay/index.html",
-    "precache-manifest.0c86fad9d2793ee24be465a81749ef0a.js": "/Friend-Pay/precache-manifest.0c86fad9d2793ee24be465a81749ef0a.js",
-    "service-worker.js": "/Friend-Pay/service-worker.js",
-    "static/css/main.8c48e2df.chunk.css.map": "/Friend-Pay/static/css/main.8c48e2df.chunk.css.map",
-    "static/js/2.e8ad3a44.chunk.js.LICENSE.txt": "/Friend-Pay/static/js/2.e8ad3a44.chunk.js.LICENSE.txt"
+    "main.css": "/Friend-Pay/src/index.js/static/css/main.8c48e2df.chunk.css",
+    "main.js": "/Friend-Pay/src/index.js/static/js/main.060344d8.chunk.js",
+    "main.js.map": "/Friend-Pay/src/index.js/static/js/main.060344d8.chunk.js.map",
+    "runtime-main.js": "/Friend-Pay/src/index.js/static/js/runtime-main.9f12c732.js",
+    "runtime-main.js.map": "/Friend-Pay/src/index.js/static/js/runtime-main.9f12c732.js.map",
+    "static/js/2.e8ad3a44.chunk.js": "/Friend-Pay/src/index.js/static/js/2.e8ad3a44.chunk.js",
+    "static/js/2.e8ad3a44.chunk.js.map": "/Friend-Pay/src/index.js/static/js/2.e8ad3a44.chunk.js.map",
+    "index.html": "/Friend-Pay/src/index.js/index.html",
+    "precache-manifest.3cbe5d4ba35bbd48aeaab31be43e6627.js": "/Friend-Pay/src/index.js/precache-manifest.3cbe5d4ba35bbd48aeaab31be43e6627.js",
+    "service-worker.js": "/Friend-Pay/src/index.js/service-worker.js",
+    "static/css/main.8c48e2df.chunk.css.map": "/Friend-Pay/src/index.js/static/css/main.8c48e2df.chunk.css.map",
+    "static/js/2.e8ad3a44.chunk.js.LICENSE.txt": "/Friend-Pay/src/index.js/static/js/2.e8ad3a44.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0fb89fc4.js",
+    "static/js/runtime-main.9f12c732.js",
     "static/js/2.e8ad3a44.chunk.js",
     "static/css/main.8c48e2df.chunk.css",
-    "static/js/main.64312b65.chunk.js"
+    "static/js/main.060344d8.chunk.js"
   ]
 }
