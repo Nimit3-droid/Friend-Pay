@@ -53,14 +53,19 @@ const App= () =>{
     </div>
   )
 
+  const getCompressedURL = () => {
+    const contentParamKey = 'c'
+    const params = new URLSearchParams(window.location.search)
 
+    return params.has(contentParamKey) ? params.get(contentParamKey) : ''
+  }
 
   return (
     <div className="App">
 
       { renderIntroduction() }
 
-      <FriendForm />
+      <FriendForm compressedURL={getCompressedURL()} />
 
 
       <Footer/>
